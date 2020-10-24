@@ -47,7 +47,8 @@
     "no-unused-expressions": "off",
     "react/jsx-one-expression-per-line": "off",
     "@typescript-eslint/ban-types": "off",
-    "camelcase": "off"
+    "camelcase": "off",
+    "import/no-duplicates": "off"
   },
   "settings": {
     "import/resolver": {
